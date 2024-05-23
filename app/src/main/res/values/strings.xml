@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">stager 2</string>
+    <string name="Grocery1">vegetable</string>
+    <string name="Grocery2">popcorns</string>
+    <string name="Grocery3">cereal</string>
+    <string name="Grocery4">vegetable2</string>
+    <string name="Grocery5">cereal2</string>
+    <string name="Grocery6">tropicalfruits</string>
+    <string name="Grocery7">pineapple</string>
+    <string name="Grocery8">apple</string>
+    <string name="Grocery9">strawberry</string>
+    <string name="Grocery10">watermelon</string>
+    <string name="Grocery11">tomato</string>
+    <string name="Grocery12">orange</string>
+    <string name="Grocery13">mango</string>
+    <string name="Grocery14">banana</string>
+    <string name="Grocery15">ovacado</string>
+    <string name="Grocery16">carrot</string>
+    <string name="Grocery17">cabbage</string>
+    <string name="Grocery18">onion</string>
+
+
+
+
+
+
+    <string name="title_activity_manager">Manager</string>
+</resources>
